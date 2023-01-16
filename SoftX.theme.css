@@ -33,7 +33,7 @@
 
 	--opacity: .85; /* Opacity of overall app. | Default: .85 */
 
-	--font: 'Inter'; /* Custom font | Default: 'Inter' */
+	--font: 'Space Mono'; /* Custom font | Default: 'Space Mono' */
 
 	--avatar-roundness: 20%; /* Roundness for avatars. | 0% = Square, 50% = Circle | Default: 50% */
 	--server-roundness: 50%; /* Roundness for servers. | 0% = Square, 50% = Circle | Default: 50% */
